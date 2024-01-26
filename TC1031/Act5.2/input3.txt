@@ -1,0 +1,6 @@
+2 2
+César 10
+Baldomero 20
+Ayer fui a comer con César y Baldomero
+.
+El profe Baldomero da la clase de estructura de datos y algoritmos 

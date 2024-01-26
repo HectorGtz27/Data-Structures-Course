@@ -1,0 +1,14 @@
+5 2
+programming 80000
+algorithm 60000
+debugging 40000
+software 120000
+engineering 90000
+the candidate must have expertise in programming and algorithm development
+as well as experience in software development. debugging skills are crucial
+to identify and fix issues in the software.
+.
+the role involves designing software architecture with a focus on creativity
+and innovation. the candidate should have expertise in algorithm design and
+debugging principles.
+.
