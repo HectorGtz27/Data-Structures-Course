@@ -14,5 +14,5 @@ How do we find an alternative route between two given ports?
 How can we analyze data to generate useful information?
 These, and some more questions, we will be solving throughout this course. So, let's get started!
 
-![Texto alternativo](ruta/de/la/SUZECANAL.png)
+![Texto alternativo](Images/SUEZCANAL.png)
 
